@@ -1,0 +1,22 @@
+
+.box1 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  background: #DC143C;
+  color: white;
+}
+
+.box2{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.box3{
+  text-align: center;
+  display: flex;
+  flex-direction: column-reverse;
+  background: #1abc9c;
+  color: white;
+}
