@@ -1,0 +1,31 @@
+Last login: Sun Sep 30 17:44:42 on console
+You have new mail.
+MacBook-Pro-de-Johan:~ Steven$ ls
+Applications				Movies
+BrawlhallaReplays			Music
+Creative Cloud Files			OneDrive - University of Plymouth
+Desktop					Pictures
+Documents				Public
+Downloads				Torrents
+Dropbox					myapp
+Library					node_modules
+LimeWire				package-lock.json
+MacKeeper Backups
+MacBook-Pro-de-Johan:~ Steven$ pwd
+/Users/Steven
+MacBook-Pro-de-Johan:~ Steven$ cd desktop
+MacBook-Pro-de-Johan:desktop Steven$ ls
+1.11.2			Steven Arroyave CV.pdf	node and express
+CV-Steven Arroyave.pdf	Uni Stuff
+MacBook-Pro-de-Johan:desktop Steven$ mkdir Terminal Stuff
+MacBook-Pro-de-Johan:desktop Steven$ cd Terminal
+MacBook-Pro-de-Johan:Terminal Steven$ mkdir css
+MacBook-Pro-de-Johan:Terminal Steven$ mkdir js
+MacBook-Pro-de-Johan:Terminal Steven$ mkdir assets
+MacBook-Pro-de-Johan:Terminal Steven$ touch index.html
+MacBook-Pro-de-Johan:Terminal Steven$ rm index.html
+MacBook-Pro-de-Johan:Terminal Steven$ rmdir assets
+MacBook-Pro-de-Johan:Terminal Steven$ mkdir assets
+MacBook-Pro-de-Johan:Terminal Steven$ touch index.html
+MacBook-Pro-de-Johan:Terminal Steven$ open index.html
+MacBook-Pro-de-Johan:Terminal Steven$ 
